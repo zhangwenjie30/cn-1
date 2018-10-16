@@ -22,7 +22,7 @@
 
 手动轮替：点击“创建新版本”，会创建一个新版本密钥，并立即轮换当前密钥；
 
-![操作指南-密钥轮换详情](/image/Key-Management-Service/操作指南-密钥轮换详情.png)
+![操作指南-密钥轮替详情](/image/Key-Management-Service/操作指南-密钥轮替详情.png)
 
 **启用/禁用密钥**
 
