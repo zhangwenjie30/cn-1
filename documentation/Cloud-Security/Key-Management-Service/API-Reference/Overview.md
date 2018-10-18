@@ -56,10 +56,16 @@ https :// {Endpoint} / {resource-path} ? {query-string}
 {
 
 "requestId": "333333333333333",
+  
   "error": {
+    
     "message": "XXXXX",
+    
     "status": "",
+    
     "code": XXXX
+  
   }
+
 }
 
