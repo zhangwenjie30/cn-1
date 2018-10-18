@@ -42,13 +42,19 @@ https :// {Endpoint} / {resource-path} ? {query-string}
 用户发送的每次接口调用请求，无论成功与否，系统都会返回一个唯一识别码requestId给用户。
 响应体分为调用成功与失败两种。格式分别为：
 成功返回：
+
 {
+
 "result": {  …  },
-"requestId": "555555555555888"
+
+"requestId": "xxx"
+
 }
 
 错误返回：
+
 {
+
 "requestId": "333333333333333",
   "error": {
     "message": "XXXXX",
