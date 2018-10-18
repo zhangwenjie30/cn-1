@@ -85,7 +85,7 @@ Curl https://kms.jdcloud-api.com/v1/key/{keyId}:Encrypt
 
   -d "{
       
-      "Plaintext: plaintext"
+   "Plaintext: plaintext"
 
 }"
 
@@ -95,7 +95,7 @@ Curl https://kms.jdcloud-api.com/v1/key/{keyId}:Encrypt
 
   "result": {
     
-    "ciphertextBlob": "PO22vGWl0WgjsZ8VjChglcnLo+1G1HaCikWIRSRtcEPDSdlRivzYg0qdGlwI1X6c"
+   "ciphertextBlob": "PO22vGWl0WgjsZ8VjChglcnLo+1G1HaCikWIRSRtcEPDSdlRivzYg0qdGlwI1X6c"
   
   },
   
