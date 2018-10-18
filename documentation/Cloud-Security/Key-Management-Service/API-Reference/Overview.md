@@ -35,3 +35,25 @@ https :// {Endpoint} / {resource-path} ? {query-string}
 
 请求体必须以json的格式进行数据传输，由服务端返回的响应体也是json的数据格式。
 
+请求参数：
+
+公共返回参数：
+
+用户发送的每次接口调用请求，无论成功与否，系统都会返回一个唯一识别码requestId给用户。
+响应体分为调用成功与失败两种。格式分别为：
+成功返回：
+{
+"result": {  …  },
+"requestId": "555555555555888"
+}
+
+错误返回：
+{
+"requestId": "333333333333333",
+  "error": {
+    "message": "XXXXX",
+    "status": "",
+    "code": XXXX
+  }
+}
+
