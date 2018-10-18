@@ -59,13 +59,51 @@ https :// {Endpoint} / {resource-path} ? {query-string}
   
   "error": {
     
-    "message": "XXXXX",
+   "message": "XXXXX",
     
-    "status": "",
+   "status": "",
     
-    "code": XXXX
+   "code": XXXX
   
   }
 
 }
+
+**API调用示例**
+
+使用密钥对数据进行加密：
+
+使用curl的请求方式：
+
+Curl https://kms.jdcloud-api.com/v1/key/{keyId}:Encrypt 
+
+  -H"x-jdcloud-request-id: 555555555555888"   \
+  
+  -H"x-jdcloud-pin: pin"                     \
+  
+  -H"x-jdcloud-request-ip: 8.8.8.8"           \
+
+  -d "{
+      
+      "Plaintext: plaintext"
+
+}"
+
+返回结果：
+
+{
+
+  "result": {
+    
+    "ciphertextBlob": "PO22vGWl0WgjsZ8VjChglcnLo+1G1HaCikWIRSRtcEPDSdlRivzYg0qdGlwI1X6c"
+  
+  },
+  
+  "requestId": "555555555555555"
+
+}
+
+
+
+
 
