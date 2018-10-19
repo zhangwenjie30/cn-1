@@ -12,10 +12,10 @@ KMS秘钥管理服务是以RESTful API的形式对外提供服务，当访问不
 
 |区域|Endpoint|
 | - | - |
-|华北|xxx
-|华东上海|xxx
-|华东宿迁|xxx
-|华南广州|xxx
+|华北|kms.cn-north-1.jdcloud-api.com
+|华东上海|kms.cn-east-2.jdcloud-api.com
+|华东宿迁|kms.cn-east-1.jdcloud-api.com
+|华南广州|kms.cn-south-1.jdcloud-api.com
 
 **请求方法**
 
