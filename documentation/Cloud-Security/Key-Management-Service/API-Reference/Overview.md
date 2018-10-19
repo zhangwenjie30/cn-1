@@ -10,7 +10,7 @@ KMS秘钥管理服务是以RESTful API的形式对外提供服务，当访问不
 
 |区域|Endpoint|
 | - | - |
-|华北|kms.cn-north-1.jdcloud-api.com
+|华北北京|kms.cn-north-1.jdcloud-api.com
 |华东上海|kms.cn-east-2.jdcloud-api.com
 |华东宿迁|kms.cn-east-1.jdcloud-api.com
 |华南广州|kms.cn-south-1.jdcloud-api.com
@@ -53,7 +53,7 @@ https :// {Endpoint} / {resource-path} ? {query-string}
 
 {
 
-"requestId": "333333333333333",
+"requestId": "xxx",
   
   "error": {
     
@@ -75,7 +75,7 @@ https :// {Endpoint} / {resource-path} ? {query-string}
 
 Curl https://kms.jdcloud-api.com/v1/key/{keyId}:Encrypt 
 
-  -H"x-jdcloud-request-id: 555555555555888"   \
+  -H"x-jdcloud-request-id: xxx"   \
   
   -H"x-jdcloud-pin: pin"                     \
   
@@ -93,11 +93,11 @@ Curl https://kms.jdcloud-api.com/v1/key/{keyId}:Encrypt
 
   "result": {
     
-   "ciphertextBlob": "PO22vGWl0WgjsZ8VjChglcnLo+1G1HaCikWIRSRtcEPDSdlRivzYg0qdGlwI1X6c"
+   "ciphertextBlob": "PO22vGWl0WgjsZ8VjChglcnLo+1G1HaCikWIRSRtcEPDSdlRivzYg0qdGlwIXXXX"
   
   },
   
-  "requestId": "555555555555555"
+  "requestId": "xxx"
 
 }
 
