@@ -1,11 +1,14 @@
 # 文档历史记录
 
-本文档介绍DDoS基础防护产品文档的重要更新历史，包括新增产品的重大特性和按照用户的反馈进行内容的更新等。
+本文档介绍DDoS防护包产品文档的重要更新历史，包括新增产品的重大特性和按照用户的反馈进行内容的更新等。
 
 |发布日期|特性|描述|
 |-|-|-|
-|2016年3月|对外发布|产品第一次对外发布|
+|2018年10月|DDoS防护包 V1.0|DDoS防护包首次发布<br />1、支持京东云内云主机、负载均衡、云物理服务器等服务的抗DDoS能力直接提升；<br />2、支持独享IP和共享IP切换，支持防护对象变更；<br />3、支持监控报表和防护日志的查看，支持抓包下载；<br />4 、支持操作日志记录和查询；<br />|
+
+
 
 ## 相关参考
 
-- [产品概述](https://github.com/jdcloudcom/cn/blob/edit/documentation/Cloud-Security/Basic-Anti-DDoS/Introduction/What-Is-Basic-Anti-DDoS.md)
+- [产品概述](../Introduction/Product-Overview.md)
+
