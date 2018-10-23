@@ -9,7 +9,7 @@
 - 如需使用弹性防护，请确保您的账户余额（包括代金券）不小于至少支付1天弹性最高套餐费用的金额，以免欠费影响使用
 
 ## 操作步骤
-1. 登录 [DDoS基础防护 控制台](https://ip-anti-console.jdcloud.com/instancelist)。
+1. 登录 [DDoS基础防护 控制台](https://antiddos-console.jdcloud.com/gz/ddos/list)。
 2. 在“防护包”子菜单下，找到“防护包列表”页面，点击 **立即开通** ，进入“创建实例”页面。
 3. 选择合适的套餐类型，建议购买保底防护+弹性防护的组合方式。
 
