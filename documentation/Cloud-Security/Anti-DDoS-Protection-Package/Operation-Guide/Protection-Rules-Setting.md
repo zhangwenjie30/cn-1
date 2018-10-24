@@ -17,13 +17,14 @@
 
 1、定位到需要配置防护规则的防护包，在操作栏中单击**防护对象设置**
 
-![1537259712996](C:\Users\XIANGY~1\AppData\Local\Temp\1537259712996.png)
+![1防护包列表-防护设置](https://github.com/jdclouddocs/cn/blob/anti-ddos/image/Anti-DDoS-Protection-Package/防护包列表-防护设置.jpg)
 
 2、对已添加的公网IP，在操作栏单击**防护规则**
 
-![1537259745221](C:\Users\XIANGY~1\AppData\Local\Temp\1537259745221.png)
 
 3、弹出的防护规则中，选择**自定义防护阈值**，则可对该IP，进行精细化的防护规则设置。此处的设置，只对单IP生效，对默认策略无影响。
+
+![防护包-自定义规则页](https://github.com/jdclouddocs/cn/blob/anti-ddos/image/Anti-DDoS-Protection-Package/防护包-自定义规则页.jpg)
 
 
 
