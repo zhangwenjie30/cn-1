@@ -8,7 +8,7 @@
 
 2、以共享IP为例，在防护对象设置页面中，添加需要防护的公网IP即可。
 
-![防护包详情页-添加共享IP](https://github.com/jdclouddocs/cn/blob/anti-ddos/image/Anti-DDoS-Protection-Package/防护包详情页-添加共享IP.jpg)
+![防护包详情页-添加共享IP](https://github.com/jdclouddocs/cn/blob/anti-ddos/image/Anti-DDoS-Protection-Package/防护包详情页-添加共享IP.png)
 
 ## 相关参考
 - [创建实例](Create-Instance.md)
