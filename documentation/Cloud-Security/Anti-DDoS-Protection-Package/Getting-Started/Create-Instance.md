@@ -26,4 +26,4 @@
 购买支付以后，即成功创建一个实例。
 
 ## 相关参考
-- [计费规则](../../Pricing/Billing-Rules.md)
+- [绑定防护对象](Bind-Protected-Resource.md)
