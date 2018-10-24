@@ -11,16 +11,17 @@
 ## 操作步骤
 1. 登录 [DDoS基础防护 控制台](https://antiddos-console.jdcloud.com/gz/ddos/list)。
 
-2. 首次购买，请先在控制台DDoS防护包菜单下， **立即开通** ；
+2. 首次购买，请先在控制台DDoS防护包菜单下， ** 立即开通 ** ；
 
    ![防护包开通页](https://github.com/jdclouddocs/cn/blob/anti-ddos/image/Anti-DDoS-Protection-Package/防护包开通页.jpg)
 
-3. 开通服务后，再次购买时，在防护包列表下，进入“创建实例”页面。
+3. 开通服务后，如果还需购买，请在防护包列表下，选择 ** 创建 ** 。
 
-   ![防护包购买页](https://github.com/jdclouddocs/cn/blob/anti-ddos/image/Anti-DDoS-Protection-Package/防护包购买页.jpg)
+   ![防护包列表页](https://github.com/jdclouddocs/cn/blob/anti-ddos/image/Anti-DDoS-Protection-Package/防护包列表页.jpg)
 
 3. 选择合适的套餐类型，建议购买保底防护+弹性防护的组合方式。
 
+   ![防护包购买页](https://github.com/jdclouddocs/cn/blob/anti-ddos/image/Anti-DDoS-Protection-Package/防护包购买页.jpg)
 
 购买支付以后，即成功创建一个实例。
 
