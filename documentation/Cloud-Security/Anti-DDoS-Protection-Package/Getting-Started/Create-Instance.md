@@ -11,11 +11,11 @@
 ## 操作步骤
 1. 登录 [DDoS基础防护 控制台](https://antiddos-console.jdcloud.com/gz/ddos/list)。
 
-2. 首次购买，请先在控制台DDoS防护包菜单下， ** 立即开通 ** ；
+2. 首次购买，请先在控制台DDoS防护包菜单下，**立即开通** ；
 
    ![防护包开通页](https://github.com/jdclouddocs/cn/blob/anti-ddos/image/Anti-DDoS-Protection-Package/防护包开通页.jpg)
 
-3. 开通服务后，如果还需购买，请在防护包列表下，选择 ** 创建 ** 。
+3. 开通服务后，如果还需购买，请在防护包列表下，选择 **创建** 。
 
    ![防护包列表页](https://github.com/jdclouddocs/cn/blob/anti-ddos/image/Anti-DDoS-Protection-Package/防护包列表页.jpg)
 
