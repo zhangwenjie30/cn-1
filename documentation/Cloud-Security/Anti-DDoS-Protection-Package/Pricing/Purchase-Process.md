@@ -1,6 +1,7 @@
 # 购买流程
 
 本文介绍 DDoS防护包实例的购买入口。
+
 请注意：公测期间，暂不开放控制台购买，也不支持交易和计费。购买页面会尽快上线，请关注产品动态。
 
 ## 入口1：[产品介绍页](https://www.jdcloud.com/cn/products/anti-ddos-protection-package)
