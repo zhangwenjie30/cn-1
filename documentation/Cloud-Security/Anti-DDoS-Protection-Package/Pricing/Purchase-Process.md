@@ -9,7 +9,7 @@
 
 ![防护包开通页](https://github.com/jdclouddocs/cn/blob/anti-ddos/image/Anti-DDoS-Protection-Package/防护包开通页.jpg)
 
-3. 购买的具体操作，请参考[创建实例](https://github.com/jdcloudcom/cn/blob/master/documentation/Cloud-Database-and-Cache/MongoDB/Getting-Started/Create-Instance.md)。
+3. 购买的具体操作，请参考[创建实例](//Getting-Started/Create-Instance.md)。
 
 ## 入口2：[DDoS基础防护 控制台](https://antiddos-console.jdcloud.com/gz/ddos/list)
 
