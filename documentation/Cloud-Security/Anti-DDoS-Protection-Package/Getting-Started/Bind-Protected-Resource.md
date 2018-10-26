@@ -10,6 +10,10 @@
 
 ![防护包详情页-添加共享IP](https://github.com/jdclouddocs/cn/blob/anti-ddos/image/Anti-DDoS-Protection-Package/防护包详情页-添加共享IP.png)
 
+独享IP套餐，请在修改防护对象处，添加待防护IP。
+
+![独享IP-防护对象变更](https://github.com/jdclouddocs/cn/blob/anti-ddos/image/Anti-DDoS-Protection-Package/独享IP-防护对象变更.png)
+
 ## 相关参考
 - [创建实例](Create-Instance.md)
 
