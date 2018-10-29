@@ -12,20 +12,24 @@ DDoS防护包提供丰富的安全报表，帮助您了解购买以后的防护�
 ### 方法2
 1、登录 [DDoS防护包控制台](https://ip-anti-console.jdcloud.com/instancelist)，选择待查看的防护包，在操作栏中单击**防护对象设置**
 
-
+![防护包列表-防护对象设置](https://github.com/jdclouddocs/cn/blob/anti-ddos/image/Anti-DDoS-Protection-Package/防护包列表-防护对象设置.jpg)
 
 2、进入防护对象设置页面，在右上方，点击**查看报表**，即可查看该防护包的报表。
 
+![查看报表](https://github.com/jdclouddocs/cn/blob/anti-ddos/image/Anti-DDoS-Protection-Package/查看报表1.png)
 
 ## 报表说明
-防护包的监控报表分为三个部分：
+防护包的监控报表如下：
 
-第一部分显示的是所选时间的攻击统计情况，包括黑洞次数，超峰次数，攻击峰值；
+![监控报表](https://github.com/jdclouddocs/cn/blob/anti-ddos/image/Anti-DDoS-Protection-Package/监控报表1.png)
+
+分为三个部分：
+
+第一部分显示的是所选时间的攻击统计情况，包括黑洞次数，攻击次数，攻击峰值；
 
 第二部分显示的是网络流量监控以及攻击类型的统计情况；
 
 第三部分显示的是防护明细。
-
 
 
 - 默认展示当天的报表，可选择7天、30天。最大可查看90天内的报表情况，报表粒度最小为5分钟。

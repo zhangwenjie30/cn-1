@@ -11,6 +11,8 @@
 
 3. 防护规则设置如下图所示：
 
+![全局防护规则](https://github.com/jdclouddocs/cn/blob/anti-ddos/image/Anti-DDoS-Protection-Package/全局防护规则.png)
+
    默认防护规则都是关闭状态，开启后，将显示系统预设的防护阈值。
 
 ## 单IP防护规则配置
