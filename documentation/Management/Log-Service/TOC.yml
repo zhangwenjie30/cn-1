@@ -22,15 +22,22 @@ items:
 - name: 入门指南
   items:
     - name: 入门指导
-      href: Getting-Started/KMS-Started.md
+      href: Getting-Started/LogService-Started.md
 - name: 操作指南
   items:
-    - name: 密钥管理
-      href: Operation-Guide/Key-Management.md
-    - name: 在线工具加解密小数据
-      href: Operation-Guide/Online-tool.md
-    - name: 机密管理
-      href: Operation-Guide/Secret-Management.md  
+    - name: 日志采集
+      href: Operation-Guide/Log-collection.md
+    - name: 日志检索
+      href: Operation-Guide/Log Retrieval.md
+    - name: 管理
+      href: Operation-Guide/Log-Management .md  
+- name: 最佳实践
+ items:
+    - name: 应用安全网关日志
+      href: Best-Practices/Practice-waf.md
+- name: 常见问题
+ items:
+   href: FAQ/FAQ.md
 - name: API参考
  items:
     - name: API使用说明
